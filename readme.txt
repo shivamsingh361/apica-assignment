@@ -1,3 +1,4 @@
+
 Database:       H2 inmemory memcache [DB will be newly created every time service restarts.]
 JDK:            17
 spring-boot:    3.2.5
